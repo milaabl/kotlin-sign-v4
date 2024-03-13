@@ -3,4 +3,5 @@
   :min-lein-version "2.0.0"
   :plugins          [[kotlinc-lein "0.1.0"]]
   :dependencies     [[org.jetbrains.kotlin/kotlin-runtime "1.0.2"]]
+  :kotlin-source-paths ["src/"]
 )
